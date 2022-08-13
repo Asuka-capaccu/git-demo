@@ -1,5 +1,5 @@
-include <iostream>
-
+#include <iostream>
+#include <cstring>
 using namespace std;
 
 void dfs(int start)
