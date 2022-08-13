@@ -10,6 +10,7 @@ void dfs(int start)
 }
 int main()
 {
-    printf("这里有一个改动")
-
+    printf("这里有一个改动");
+    printf("这又是一个改动");
+    return 0;
 }
